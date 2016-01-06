@@ -11,6 +11,8 @@ Check me out at other places on the web:
 
 ## Blog posts
 
+- Jan 06, 2016 - [Reading notes: GPU text rendering with vector textures]
+(20160106.md)
 - Jan 03, 2016 - [2016](20160103.md)
 - Nov 07, 2015 - [Blessings](20151107.md)
 - Sep 27, 2015 - [Academic Interests, Career Goals, Personal
