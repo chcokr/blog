@@ -11,6 +11,7 @@ Check me out at other places on the web:
 
 ## Blog posts
 
+- May 13, 2016 - [Molds](20160513.md)
 - Jan 06, 2016 - [Reading notes: GPU text rendering with vector textures]
 (20160106.md)
 - Jan 03, 2016 - [2016](20160103.md)
